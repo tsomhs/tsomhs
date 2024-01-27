@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 📚Currently studying at National and Kapodistrian University of Athens<br>
 👨‍💻Computer Science Major<br>
-⚙️Future Software Engineer
+⚙️Future Software Engineer<br>
+Fun fact: Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!🥶
