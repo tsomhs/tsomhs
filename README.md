@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📚Currently studying at National and Kapodistrian University of Athens
+👨‍💻Computer Science Major
+⚙️Future Software Engineer
