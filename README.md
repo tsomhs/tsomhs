@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 📚Currently studying at National and Kapodistrian University of Athens<br>
-👨‍💻Computer Science Major
+👨‍💻Computer Science Major<br>
 ⚙️Future Software Engineer
