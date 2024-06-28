@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 📚Currently studying at National and Kapodistrian University of Athens<br>
 👨‍💻Computer Science Major<br>
-⚙️Future Full Stack Developer<br>
+⚙️Future Software Engineer<br>
